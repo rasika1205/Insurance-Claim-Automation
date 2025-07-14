@@ -16,7 +16,7 @@ import json
 api_key="your key"
 genai.configure(api_key=api_key)
 if api_key is None or api_key == "":
-    print("OpenAI API key not set or empty. Please set the environment variable.")
+    print("Gemini API key not set or empty. Please set the environment variable.")
     exit()  # Terminate the program if the API key is not set.
 FAISS_PATH = "/faiss"
 # Flask App
