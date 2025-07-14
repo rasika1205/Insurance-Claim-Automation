@@ -44,6 +44,9 @@ This project automates the verification and approval process for health insuranc
 - Google Gemini API key
 - Required Python packages (see below)
 
+## Demo
+<img width="1868" height="816" alt="Screenshot 2025-07-13 132946" src="https://github.com/user-attachments/assets/b2fc0b14-870e-4618-927c-75db452c3798" />
+
 ### Installation
 
 1. **Clone the repository:**
@@ -83,8 +86,6 @@ This project automates the verification and approval process for health insuranc
 3. Submit the form.
 4. View the automated decision and detailed report.
    
-## Demo
-<img width="1868" height="816" alt="Screenshot 2025-07-13 132946" src="https://github.com/user-attachments/assets/b2fc0b14-870e-4618-927c-75db452c3798" />
 
 
 ## Project Structure
